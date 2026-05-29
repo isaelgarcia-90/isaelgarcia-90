@@ -2,6 +2,7 @@
 
 <h3 align="justify">
 A software engineer and computer scientist pursuing a career transition into Machine Learning, AI Engineering and Full-stack development, coming from a solid Embedded Systems background.
+With that goal in mind, I've been attending AI conferences, taking courses, reading about ML and data analysis and I have a strong interest in what these tools can build and predict, and in applying them to real full-stack products.
 </h3>
 
 <h3 align="justify">
@@ -14,15 +15,15 @@ Feel free to explore and <a href="https://www.linkedin.com/in/isael-g-11882571/"
 
 - 🔭 I’m currently working on a [Robotics ML Monitoring Dashboard](https://github.com/isaelgarcia-90/robotics_ML_monitoring_dashboard) : A React and TypeScript dashboard for visualizing simulated real-time robotics ML data and system metrics. Built reusable dashboard components for live predictions, latency monitoring, logs, and annotation workflows, with architecture designed for future FastAPI and ROS2 integration. I used AI-assisted tooling to accelerate UI development.
 
-- 🌱 I’m currently learning **Full-stack web development (html, css, javascript, react, typescript, python), Machine Learning (LLM) and AI Engineering.**
+- 🌱 I’m currently learning **Full-stack development (html, css, javascript, react, typescript, python, c++, databases), Machine Learning (LLM) and AI Engineering.**
 
-- 👯 I’m looking to collaborate on **Machine Learning (LLM) and AI Engineering**
+- 👯 I’m looking to collaborate on **Machine Learning (LLM), AI Engineering and Full-stack development**
 
-- 🤝 I’m looking for help with **Machine Learning (LLM) and AI Engineering**
+- 🤝 I’m looking for help with **Machine Learning (LLM), AI Engineering and Full-stack development**
 
 - 👨‍💻 All of my projects are available at [garciaisael.com](https://www.garciaisael.com)
 
-- 📝 I regularly write articles on [garciaisael.com/blog](garciaisael.com/blog/)
+- 📝 I regularly write articles on [garciaisael.com/blog/](https://garciaisael.com/blog/)
 
 - 📫 How to reach me **isael.garcia_90@hotmail.com**
 
