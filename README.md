@@ -22,7 +22,7 @@ Feel free to explore and <a href="https://www.linkedin.com/in/isael-g-11882571/"
 
 - 👨‍💻 All of my projects are available at [garciaisael.com](https://www.garciaisael.com)
 
-- 📝 I regularly write articles on [garciaisael.com/blog](garciaisael.com/blog)
+- 📝 I regularly write articles on [garciaisael.com/blog](garciaisael.com/blog/)
 
 - 📫 How to reach me **isael.garcia_90@hotmail.com**
 
