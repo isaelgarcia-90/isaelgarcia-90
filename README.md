@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Isael Garcia</h1>
 
 <h3 align="justify">
-A software engineer and computer scientist pursuing a career change in Machine Learning and AI Engineering as Freelancer from scratch coming from an Embedded Systems background.
+A software engineer and computer scientist pursuing a career transition into Machine Learning, AI Engineering and Full-stack development, coming from a solid Embedded Systems background.
 </h3>
 
 <h3 align="justify">
-I'm passionate about building innovative solutions and continuously learning state-of-the-art technologies.
+I'm passionate about continuously learning state-of-the-art technologies.
 </h3>
 
 <h3 align="justify">
