@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Isael Garcia</h1>
 
 <h3 align="justify">
-A software engineer and computer scientist pursuing a career transition into Machine Learning, AI Engineering and Full-stack development, coming from a solid Embedded Systems background.<br>
-With that goal in mind, I've been attending AI conferences, taking courses, reading about ML and data analysis and I have a strong interest in what these tools can build and predict, and in applying them to real full-stack products.
+A software engineer and computer scientist pursuing a career transition into Machine Learning, AI Engineering and Full-stack development, coming from a solid Embedded Systems background.<br><br>
+With that goal in mind, I've been attending AI conferences, taking courses, reading about ML and data analytics and I have a strong interest in what these tools can build and predict, and in applying them to real full-stack products.
 </h3>
 
 <h3 align="justify">
