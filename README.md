@@ -15,11 +15,11 @@ Feel free to explore and <a href="https://www.linkedin.com/in/isael-g-11882571/"
 
 - 🔭 I’m currently working on a [Robotics ML Monitoring Dashboard](https://github.com/isaelgarcia-90/robotics_ML_monitoring_dashboard) : A React and TypeScript dashboard for visualizing simulated real-time robotics ML data and system metrics. Built reusable dashboard components for live predictions, latency monitoring, logs, and annotation workflows, with architecture designed for future FastAPI and ROS2 integration. I used AI-assisted tooling to accelerate UI development.
 
-- 🌱 I’m currently learning **Full-stack development (html, css, javascript, react, typescript, python, c++, databases), Machine Learning (LLM) and AI Engineering.**
+- 🌱 I’m currently learning **AI Engineering, Machine Learning (LLM), and Full-stack development (html, css, javascript, react, typescript, python, c++, databases)**
 
-- 👯 I’m looking to collaborate on **Machine Learning (LLM), AI Engineering and Full-stack development**
+- 👯 I’m looking to collaborate on **AI Engineering, Machine Learning (LLM) and Full-stack development**
 
-- 🤝 I’m looking for help with **Machine Learning (LLM), AI Engineering and Full-stack development**
+- 🤝 I’m looking for help with **AI Engineering, Machine Learning (LLM) and Full-stack development**
 
 - 👨‍💻 All of my projects are available at [garciaisael.com](https://www.garciaisael.com)
 
